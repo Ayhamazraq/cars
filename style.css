@@ -1,0 +1,50 @@
+header
+{
+  background-color: rosybrown;
+      margin-left: -7px;
+    margin-right: -7px;
+    margin-top: -7px; 
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    border-style: ridge;
+}
+h1{
+text-align: center;
+    color: #fcfcfc;
+    display: flow-root;
+    padding-left: 20px;
+    font-variant: small-caps;
+    font-size: -webkit-xxx-large;
+   }
+#links{
+  color: #fcfcfc;
+  display: inline-block;
+  margin: 0px 0px 20px 1150px;
+      font-size: 25px; 
+
+}
+
+.pr1{
+  background-color: aqua
+}
+.a1{
+  display: inline-block;
+}
+main{
+  width: 100%
+}
+.b1{
+  width: 100%;
+  display: inline-block;
+}
+.b1 div{ 
+  float: left;
+  width: 250px;
+  height: 250px;
+
+}
+.b1 img {
+  width: 200px;
+  height: 200px;
+}

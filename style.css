@@ -48,3 +48,15 @@ main{
   width: 200px;
   height: 200px;
 }
+
+.f1{
+ border: solid;
+   border-color: black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:rosybrown;
+  color: white;
+  text-align: center
+}

@@ -9,7 +9,9 @@ while (favCar != "bmw" && favCar != "mercedes"){
  while (numberofpic >10){
    numberofpic - prompt ("please enter number less than 10")
  }
+
 function favCarr (){
+
 
 
 if (favCar == "mercedes"){
